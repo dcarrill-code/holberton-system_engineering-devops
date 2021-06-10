@@ -1,0 +1,1 @@
+This script is to see where i am at the moment
