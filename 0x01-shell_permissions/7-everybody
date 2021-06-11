@@ -1,2 +1,2 @@
 B#!/bin/bash
-chmod 741 hello
+chmod g+r hello
