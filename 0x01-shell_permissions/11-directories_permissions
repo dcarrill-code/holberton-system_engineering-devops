@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --no-preserve-rootR 755 11-directories_permissions
+chmod --preserve-rootR 755 11-directories_permissions
