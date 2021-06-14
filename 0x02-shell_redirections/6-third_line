@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR==3' iacta
+grep -C0 3 iacta
